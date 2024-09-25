@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ringshei.github.io/sitemap.ringshei.gz
+Sitemap: https://ringshei.github.io/app/sitemap.ringshei.gz
+Sitemap: https://ringshei.github.io/assets/sitemap.ringshei.gz
+Sitemap: https://ringshei.github.io/css/sitemap.ringshei.gz
+Sitemap: https://ringshei.github.io/data/sitemap.ringshei.gz
+Sitemap: https://ringshei.github.io/includes/sitemap.ringshei.gz
+Sitemap: https://ringshei.github.io/item/sitemap.ringshei.gz
+Sitemap: https://ringshei.github.io/src/sitemap.ringshei.gz
